@@ -1,0 +1,1 @@
+enum Objects { NONE, UNDULATE, MAN }
